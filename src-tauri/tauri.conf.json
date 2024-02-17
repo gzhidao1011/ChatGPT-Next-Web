@@ -92,13 +92,13 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/latest/download/latest.json"
+        "https://github.com/gzhidao1011/ChatGPT-Next-Web/releases/latest/download/latest.json"
       ],
       "dialog": false,
       "windows": {
         "installMode": "passive"
       },
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IERFNDE4MENFM0Y1RTZBOTQKUldTVWFsNC96b0JCM3RqM2NmMnlFTmxIaStRaEJrTHNOU2VqRVlIV1hwVURoWUdVdEc1eDcxVEYK"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDRGMDdDQkU5OTBBOUNBN0EKUldSNnlxbVE2Y3NIVDJhRkdhb1UxTFlCSnAyZlVJMlZ4Mzh1a3FNdzl5Y1R2ZnVoaHk2d3FDZG4K"
     },
     "windows": [
       {
